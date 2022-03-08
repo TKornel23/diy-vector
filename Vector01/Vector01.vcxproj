@@ -139,7 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="vector.cpp" />
     <ClCompile Include="Vector01.cpp" />
   </ItemGroup>
   <ItemGroup>
