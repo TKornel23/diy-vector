@@ -7,8 +7,8 @@ int main()
 	oe::vector<int> v1;
 	oe::vector<bool> v2;
 
-	/*oe::vector<int> v3(5);
-	oe::vector<int> v4(10, 8);
+	oe::vector<int> v3(5);
+	/*oe::vector<int> v4(10, 8);
 	oe::vector<int> v({ 3,4,5,6,8,10 });
 
 	oe::vector<int> v6 = v3;
